@@ -22,15 +22,15 @@
 	<text transform="matrix(1 0 0 1 147.3851 236.655)" class="st2 st3 st4">X</text>
 	<g transform="translate(40, 75) scale(2)">
         <polygon stroke="#791026" points="25, 0, 0, 48, 50, 48" fill-opacity="null" 
-            stroke-opacity="null" stroke-width="2" fill="#fff"/>
+            stroke-opacity="null" stroke-width="2" fill="#791026"/>
 	</g>
 	<g transform="translate(13, 42) scale(0.4)">
         <polygon stroke="#791026" points="25, 0, 0, 48, 50, 48" fill-opacity="null" 
-            stroke-opacity="null" stroke-width="5" fill="#fff"/>
+            stroke-opacity="null" stroke-width="5" fill="#791026"/>
 	</g>
 	<g transform="translate(166.5, 210) scale(0.4) rotate(180)">
         <polygon stroke="#791026" points="25, 0, 0, 48, 50, 48" fill-opacity="null" 
-            stroke-opacity="null" stroke-width="5" fill="#fff"/>
+            stroke-opacity="null" stroke-width="5" fill="#791026"/>
 	</g>
 </g>
 </svg>
