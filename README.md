@@ -2,7 +2,7 @@
 
 ## Circle
 
-<img src="https://raw.githubusercontent.com/mykeels/whot-cards/h/card-circle.svg" alt="Circle Card">
+<img class="img-view" data-image="https://raw.githubusercontent.com/mykeels/whot-cards/h/card-circle.svg" data-encode="true" alt="Circle Card">
 
 ---
 
