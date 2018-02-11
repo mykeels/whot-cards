@@ -2,22 +2,22 @@
 
 ## Circle
 
-<img class="img-view" data-image="https://raw.githubusercontent.com/mykeels/whot-cards/h/card-circle.svg" data-encode="true" alt="Circle Card">
+![](https://github.com/mykeels/whot-cards/blob/master/img/card-circle.png?raw=true)
 
 ---
 
 ## Plus
 
-<img src="https://raw.githubusercontent.com/mykeels/whot-cards/h/card-plus.svg" alt="Plus Card">
+![](https://github.com/mykeels/whot-cards/blob/master/img/card-plus.png?raw=true)
 
 ---
 
 ## Square
 
-<img src="https://raw.githubusercontent.com/mykeels/whot-cards/h/card-square.svg" alt="Square Card">
+![](https://github.com/mykeels/whot-cards/blob/master/img/card-square.png?raw=true)
 
 ---
 
 ## Star
 
-<img src="https://raw.githubusercontent.com/mykeels/whot-cards/h/card-star.svg" alt="Star Card">
+![](https://github.com/mykeels/whot-cards/blob/master/img/card-star.png?raw=true)
