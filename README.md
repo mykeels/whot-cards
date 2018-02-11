@@ -21,3 +21,9 @@
 ## Star
 
 ![](https://github.com/mykeels/whot-cards/blob/master/img/card-star.png?raw=true)
+
+---
+
+## Triangle
+
+![](https://github.com/mykeels/whot-cards/blob/master/img/card-triangle.png?raw=true)
