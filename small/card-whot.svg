@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" xml:space="preserve">
+ <style type="text/css">
+	.st3{fill:#791026;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:26.9039px;}
+ </style>
+ <g>
+  <title>Small Circle Card</title>
+  <rect fill="none" height="52" width="52" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Small Circle Card</title>
+  <ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="25" cy="25" rx="24.5" ry="24"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" 
+  	fill-opacity="null" x="15.3" y="34" font-size="24" text-anchor="start" 
+	  xml:space="preserve" class="st3 st4 st5" >X</text>
+  <text fill="#555" stroke="#791026" stroke-opacity="0.1" fill-opacity="0.1" 
+  	fill-opacity="null" x="4.6" y="42.7" font-size="43" text-anchor="start" 
+	  xml:space="preserve" class="st4">W</text>
+ </g>
+</svg>
