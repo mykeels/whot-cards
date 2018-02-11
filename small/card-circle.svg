@@ -8,11 +8,11 @@
 	.st5{font-size:26.9039px;}
  </style>
  <g>
-  <title>Circle Small</title>
+  <title>Small Circle Card</title>
   <rect fill="none" height="52" width="52" y="-1" x="-1"/>
  </g>
  <g>
-  <title>Layer 1</title>
+  <title>Small Circle Card</title>
   <ellipse fill="#fff" stroke="#000" stroke-width="1.5" cx="25" cy="25" rx="24.5" ry="24"/>
   <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" 
   	fill-opacity="null" x="15.3" y="34" font-size="24" text-anchor="start" 
