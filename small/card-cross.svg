@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" xml:space="preserve">
+ <style type="text/css">
+	.st3{fill:#791026;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:18px;}
+ </style>
+ <g>
+  <title>Small Cross Card</title>
+  <rect fill="none" height="52" width="52" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Small Cross Card</title>
+  <polygon stroke="#000" id="svg_4" points="16, 0, 16, 16, 0, 16, 0, 34, 16, 34, 16, 50, 34, 50, 34, 34, 50, 34, 50, 16, 34, 16, 34, 0" fill-opacity="null" 
+    stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" 
+  	fill-opacity="null" x="18" y="31" font-size="24" text-anchor="start" 
+	  xml:space="preserve" class="st3 st4 st5">X</text>
+ </g>
+</svg>
